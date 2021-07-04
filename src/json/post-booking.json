@@ -1,0 +1,13 @@
+{
+  "duration": "2",
+  "price": "240",
+  "bookingDateStart": "new Date()",
+  "bookingDateEnd": "new Date()",
+  "firstName": "Dewa",
+  "lastName": "Kipas",
+  "emailAddress": "scuication@gmail.com",
+  "phoneNumber": "081923012380",
+  "accountHolder": "Scui Cation",
+  "bankFrom": "BCA",
+  "proofPayment": "FileData()"
+}
